@@ -38,3 +38,9 @@ source code which is released under the GNU LGPL Version 3 license. http://kivy.
 The icon was adapted from the  Android Icon Templates Pack available at
 http://developer.android.com/guide/practices/ui_guidelines/icon_design.html
 The icons are released under the Apache 2.0 license
+
+
+Note
+-------
+
+**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/WarOfWord/pulls).**
